@@ -1,7 +1,7 @@
 # BaseBall EDA Case Study Analysis  
 Exploratory Data Analysis Project 
 
-This project conducts exploratory data analysis (EDA) on a dataset of career statistics for major league baseball players. The goal is to understand the relationships between different performance metrics and player salary.
+This project conducts exploratory data analysis (EDA) on a dataset of career statistics for major league baseball players. The goal is to understand the relationships between different performance metrics and player salary. The Rmarkdown html code file can be found [here](https://github.com/omotuno/baseball_exploratory_data_analysis/blob/main/EDA-5470-PROJECT.html)
 
 The analysis focuses on key variables like AtBat, Hits, and Salary. After cleaning the data and dealing with missing values, univariate analysis is performed to understand the distribution of individual variables. Bivariate analysis explores the relationships between variables through visualizations like scatterplots, boxplots, and spread-level plots.
 
